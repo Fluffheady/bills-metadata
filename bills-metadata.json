@@ -6,6 +6,11 @@
   "seller_fee_basis_points": 0,
   "properties": {
     "category": "image",
-    "creators": []
+    "creators": [
+      {
+        "address": "vRAqPrhw87Yyv3CthSTj9cnhQWU3pJrgJ7FK7LJYDFY",
+        "share": 100
+      }
+    ]
   }
 }
