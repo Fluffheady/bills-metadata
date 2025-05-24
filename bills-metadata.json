@@ -1,0 +1,11 @@
+{
+  "name": "$Bills",
+  "symbol": "BILLS",
+  "description": "17 billion reasons to jump through a folding table. A fan-made Solana meme token in honor of Josh Allen and the Buffalo Bills.",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreihngwgingmyi2yl6t4ykyjnjboabz5yowfoppsifodqz3iwkwuvtu",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "category": "image",
+    "creators": []
+  }
+}
